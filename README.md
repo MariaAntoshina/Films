@@ -1,5 +1,5 @@
 
-<h1>Small project where you can make a list of movies you have watched(HTML, SCSS, JS Vanilla)</h1>
+<h1>A small project where you can make a list of movies you have watched(HTML, SCSS, JS Vanilla)</h1>
 
 <h2>What you can do using this website:</h2>
 <ul>
