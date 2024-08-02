@@ -46,7 +46,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     btn.addEventListener('click', (e) => {
-        console.log('here')
         let input = e.target.form[0].value;
 
         if (input.length > 21) {
@@ -115,7 +114,7 @@ function isPangram(string, letterCount) {
     }
     return result;
 }
-console.log(isPangram('The quick brown fox jumps over he lazy dog', 33));
+// console.log(isPangram('The quick brown fox jumps over he lazy dog', 33));
 
 function deepCount(a) {
     let result = 0;
