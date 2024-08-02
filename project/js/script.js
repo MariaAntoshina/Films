@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     btn.addEventListener('click', (e) => {
-        debugger
+        console.log('here')
         let input = e.target.form[0].value;
 
         if (input.length > 21) {
