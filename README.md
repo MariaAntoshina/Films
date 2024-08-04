@@ -15,7 +15,7 @@ Preview of a website:
 <h2>Stack:</h2>
 <ul>
   <li>HTML</li>
-   <li> SCSS </li>
+   <li>SCSS </li>
   <li>JS Vanilla</li>
 </ul>
 
