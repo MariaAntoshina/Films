@@ -9,6 +9,7 @@
 </ul>
 
 Preview of a website:
+
 ![image](https://github.com/user-attachments/assets/0e9922c4-6b05-4a4f-9a4f-172e932c3724)
 
 
